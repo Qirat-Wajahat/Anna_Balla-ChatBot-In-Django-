@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fd2c90f-422a-458e-bb88-d9e8934c27c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Chat_Bot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/bard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/chatBot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/chatGPT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/listen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/say.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Anna_Balla/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat_Bot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat_Bot/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat_Bot/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat_Bot/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chat_Bot/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/chat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8fd2c90f-422a-458e-bb88-d9e8934c27c5" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,12 +105,33 @@
       <workItem from="1724870548431" duration="9458000" />
       <workItem from="1724969346819" duration="2665000" />
       <workItem from="1725199286665" duration="5344000" />
-      <workItem from="1725215039237" duration="6783000" />
+      <workItem from="1725215039237" duration="7176000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1725225553493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725225553493</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1725225568216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725225568216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
